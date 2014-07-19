@@ -1,4 +1,4 @@
-icbPicker
+ToDo List Manager w/ Angular
 =========
 
-using angular/angular-ui/bootstrap to recreate icb picker
+using angular/angular-ui/bootstrap to recreate a todos manager
