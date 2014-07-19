@@ -6,6 +6,6 @@ function TodoCtrl($scope) {
     {text: "Build an app", done: false}];
 
     $scope.addTodo = function () {
-    	$scope.todos.push({text:{{$scope.formTodoText}}, done: false});
+    	$scope.todos.push({text: $scope.formTodoText, done: false});
     };
 }
