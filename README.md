@@ -1,4 +1,4 @@
 ToDo List Manager w/ Angular
 =========
 
-using angular/angular-ui/bootstrap to recreate a todos manager
+Using angular/angular-ui/bootstrap to create a todos manager
